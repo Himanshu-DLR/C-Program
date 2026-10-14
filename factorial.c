@@ -8,6 +8,6 @@ int main()
     {
         fact=fact*i;
     }
-    printf("Factorial of number n is:-%d",fact);
+    printf("Factorial of number n is:%d",fact);
     return 0;
 }
